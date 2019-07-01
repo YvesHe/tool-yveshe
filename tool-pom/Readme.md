@@ -5,7 +5,3 @@
 
 # 注意事项
 可能会出现的问题：maven仓库中无法找到该jar包(一般都出现在第三方jar包 或者收费的  比如：Oracle 的 ojdbc.jar)
-
----
-
-参考: https://www.cnblogs.com/gu-bin/p/10628471.html
